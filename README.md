@@ -18,4 +18,4 @@
 - run npm i
 - npm start
 
-Becareful of API limits
+Becareful of AlphaVantage API limits
